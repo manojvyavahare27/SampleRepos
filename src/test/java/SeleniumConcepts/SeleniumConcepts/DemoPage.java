@@ -6,6 +6,7 @@ public class DemoPage {
 		// TODO Auto-generated method stub
 
 		int i=10;
+		String a="Manoj";
 	}
 
 }
